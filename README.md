@@ -9,5 +9,3 @@
 #### Primeiros passos:
 
 - [ ] Montar ambiente de desenvolvimento.
-
-- [ ]
