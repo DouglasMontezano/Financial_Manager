@@ -6,4 +6,7 @@
 
 ##### Primeiros passos:
 
-- [ ] Montar ambiente de desenvolvimento.
+- Montar ambiente de desenvolvimento:
+  - [x] Definição e usabilidade dos gerenciadores de pacotes NPM e Yarn.
+  - [x] UI - Vue? React?
+  - [x]
