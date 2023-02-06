@@ -8,4 +8,5 @@
 
 - Montar ambiente de desenvolvimento:
   - [x] Definição e usabilidade dos gerenciadores de pacotes NPM e Yarn.
-  - [ ] UI - Vue? React?
+  - [x] UI - Vue? React?
+  - [x] Startando estudos JS + TS + React.
