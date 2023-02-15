@@ -1,6 +1,6 @@
 ### Financial_Manager
 
-#### Projeto que consiste em criar um gerenciador financeiro de contas pessoais e aperfeiçoar o aprendizado de Java Script e outras tecnologias.
+#### Projeto que consiste em criar um gerenciador financeiro de contas pessoais e aperfeiçoar o aprendizado de Java Script type script, React dentre outras tecnologias.
 
 ---
 

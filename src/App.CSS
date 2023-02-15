@@ -1,0 +1,35 @@
+* {
+ box-sizing: border-box;
+ padding: 0;
+ margin: 0;
+}
+
+body {
+
+ /* ff 3.6+ */
+ background: -moz-linear-gradient(90deg, rgba(37, 63, 153, 1) 0%, rgba(2, 2, 86, 1) 78%);
+
+ /* safari 5.1+,chrome 10+ */
+ background: -webkit-linear-gradient(90deg, rgba(37, 63, 153, 1) 0%, rgba(2, 2, 86, 1) 78%);
+
+ /* opera 11.10+ */
+ background: -o-linear-gradient(90deg, rgba(37, 63, 153, 1) 0%, rgba(2, 2, 86, 1) 78%);
+
+ /* ie 6-9 */
+ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#020256', endColorstr='#253F99', GradientType=0);
+
+ /* ie 10+ */
+ background: -ms-linear-gradient(90deg, rgba(37, 63, 153, 1) 0%, rgba(2, 2, 86, 1) 78%);
+
+ /* global 94%+ browsers support */
+ background: linear-gradient(90deg, rgba(37, 63, 153, 1) 0%, rgba(2, 2, 86, 1) 78%);
+
+}
+
+
+
+a {
+ color: unset;
+ text-decoration: none;
+
+}
