@@ -12,3 +12,6 @@
   - [x] Startando estudos JS + TS + React.
   - [x] Aprendendo a criar extrutura de pastas mais compativel com projeto.
   - [x] Criando arquivo index para armazenar as exportações necessárias para o App.
+  - [x] Ajuste para versel https://financial-manager-douglasmontezano.vercel.app/
+  - [ ] Pesquisar diferença entre VIT e NEXT.
+  - [ ] Rotas?
