@@ -1,9 +1,8 @@
 
 import React from 'react';
 // Importando componentes exportados pelo arquivo components/index.tsx
-import {Navbar,Footer} from './components'
-import '/src/App.css'
-
+import {Navbar,Footer} from './components';
+import '/src/App.css';
 
 const App = () => {
 return(
