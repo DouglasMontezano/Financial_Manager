@@ -12,6 +12,6 @@
   - [x] Startando estudos JS + TS + React.
   - [x] Criar extrutura de pastas mais compativel com projeto.
   - [x] Criando arquivo index para armazenar as exportações necessárias para o App.
-  - [x] Configuração do projeto para usar a versel https://financial-manager-douglasmontezano.vercel.app/
+  - [x] Configuração do projeto para usar a vercel https://financial-manager-douglasmontezano.vercel.app/
   - [ ] Diferença entre VIT e NEXT?
   - [ ] Rotas?
