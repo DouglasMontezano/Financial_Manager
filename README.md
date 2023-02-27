@@ -13,5 +13,5 @@
   - [x] Criar extrutura de pastas mais compativel com projeto.
   - [x] Criando arquivo index para armazenar as exportações necessárias para o App.
   - [x] Configuração do projeto para usar a vercel https://financial-manager-douglasmontezano.vercel.app/
-  - [ ] Diferença entre VIT e NEXT?
+  - [x] Diferença entre VIT e NEXT?
   - [ ] Rotas?
